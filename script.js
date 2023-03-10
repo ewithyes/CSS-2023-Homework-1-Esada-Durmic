@@ -24,6 +24,22 @@ const questions = [
     d: "none of the above",
     correct: "b",
   },
+  {
+    question: "Which of the following is NOT a part of common Github terminology?",
+    a: "Forks",
+    b: "Repositories",
+    c: "Pulls",
+    d: "Editors",
+    correct: "d",
+  },
+  {
+    question: "How many weekends will Coding Spring School 2023 last?",
+    a: "Three",
+    b: "Five",
+    c: "Two",
+    d: "Seven",
+    correct: "a",
+  },
 ];
 
 //Fetching the HTML elements
